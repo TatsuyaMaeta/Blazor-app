@@ -14,7 +14,7 @@ namespace WebApplication1.Server.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "凍えるくらい寒い", "うららかな天気", "肌寒い", "寒い", "いい感じ", "暖かい", "爽やかな天気", "暑い", "蒸し暑い", "灼熱"
         };
 
         private readonly ILogger<WeatherForecastController> logger;
@@ -31,6 +31,7 @@ namespace WebApplication1.Server.Controllers
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
                 Date = DateTime.Now.AddDays(index),
+                //ランダム関数で-20度から50度までを割り振ってる
                 TemperatureC = rng.Next(-20, 55),
                 Summary = Summaries[rng.Next(Summaries.Length)]
             })
