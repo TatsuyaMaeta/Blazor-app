@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{0B313EDD-9D51-4EBA-957E-C1D55891E1D2}|Default">
+  <MonoDevelop.Ide.ItemProperties.WebApplication1.Server PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplication1/Client/Pages/Index.razor">
+    <Files>
+      <File FileName="WebApplication1/Client/Pages/Index.razor" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApplication1" expanded="True" selected="True">
+            <Node name="WebApplication1.Server" expanded="True">
+              <Node name="Pages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
