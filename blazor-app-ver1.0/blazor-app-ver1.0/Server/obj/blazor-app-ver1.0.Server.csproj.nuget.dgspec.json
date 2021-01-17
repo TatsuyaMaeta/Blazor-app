@@ -1,0 +1,204 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Server/blazor-app-ver1.0.Server.csproj": {}
+  },
+  "projects": {
+    "/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/blazor-app-ver1.0.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/blazor-app-ver1.0.Client.csproj",
+        "projectName": "blazor-app-ver1.0.Client",
+        "projectPath": "/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/blazor-app-ver1.0.Client.csproj",
+        "packagesPath": "/Users/tatsuya.m/.nuget/packages/",
+        "outputPath": "/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tatsuya.m/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Shared/blazor-app-ver1.0.Shared.csproj": {
+                "projectPath": "/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Shared/blazor-app-ver1.0.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Build": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Server/blazor-app-ver1.0.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Server/blazor-app-ver1.0.Server.csproj",
+        "projectName": "blazor-app-ver1.0.Server",
+        "projectPath": "/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Server/blazor-app-ver1.0.Server.csproj",
+        "packagesPath": "/Users/tatsuya.m/.nuget/packages/",
+        "outputPath": "/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Server/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tatsuya.m/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/blazor-app-ver1.0.Client.csproj": {
+                "projectPath": "/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/blazor-app-ver1.0.Client.csproj"
+              },
+              "/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Shared/blazor-app-ver1.0.Shared.csproj": {
+                "projectPath": "/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Shared/blazor-app-ver1.0.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Shared/blazor-app-ver1.0.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Shared/blazor-app-ver1.0.Shared.csproj",
+        "projectName": "blazor-app-ver1.0.Shared",
+        "projectPath": "/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Shared/blazor-app-ver1.0.Shared.csproj",
+        "packagesPath": "/Users/tatsuya.m/.nuget/packages/",
+        "outputPath": "/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tatsuya.m/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
