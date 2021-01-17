@@ -1,0 +1,9 @@
+/Users/tatsuya.m/控データ/WebApplication1/WebApplication1/Shared/bin/Debug/netstandard2.1/WebApplication1.Shared.deps.json
+/Users/tatsuya.m/控データ/WebApplication1/WebApplication1/Shared/bin/Debug/netstandard2.1/WebApplication1.Shared.dll
+/Users/tatsuya.m/控データ/WebApplication1/WebApplication1/Shared/bin/Debug/netstandard2.1/WebApplication1.Shared.pdb
+/Users/tatsuya.m/控データ/WebApplication1/WebApplication1/Shared/obj/Debug/netstandard2.1/WebApplication1.Shared.csprojAssemblyReference.cache
+/Users/tatsuya.m/控データ/WebApplication1/WebApplication1/Shared/obj/Debug/netstandard2.1/WebApplication1.Shared.AssemblyInfoInputs.cache
+/Users/tatsuya.m/控データ/WebApplication1/WebApplication1/Shared/obj/Debug/netstandard2.1/WebApplication1.Shared.AssemblyInfo.cs
+/Users/tatsuya.m/控データ/WebApplication1/WebApplication1/Shared/obj/Debug/netstandard2.1/WebApplication1.Shared.csproj.CoreCompileInputs.cache
+/Users/tatsuya.m/控データ/WebApplication1/WebApplication1/Shared/obj/Debug/netstandard2.1/WebApplication1.Shared.dll
+/Users/tatsuya.m/控データ/WebApplication1/WebApplication1/Shared/obj/Debug/netstandard2.1/WebApplication1.Shared.pdb
