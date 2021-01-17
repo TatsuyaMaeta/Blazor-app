@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tbjknpOMov8heICjjncGl+ZEUSb1M+ID+m0ymeMGTkemV77TFeT0AvQsHd8h68ICZSLuVLvsA6DYp2DxlkrPEw==",
+  "dgSpecHash": "vsUe+qjFqUB0f2M4bDs2qiai7njrZxXqTNASIa/gX29hPCTDKVkgLyrY9SyOxFAztuwNCQfMIXhJ7UnF7EFpcg==",
   "success": true,
-  "projectFilePath": "/Users/tatsuya.m/控データ/WebApplication1/WebApplication1/Client/WebApplication1.Client.csproj",
+  "projectFilePath": "/Users/git-repo/Blazor-app/WebApplication1/WebApplication1/Client/WebApplication1.Client.csproj",
   "expectedPackageFiles": [
     "/Users/tatsuya.m/.nuget/packages/microsoft.aspnetcore.authorization/3.1.6/microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",
     "/Users/tatsuya.m/.nuget/packages/microsoft.aspnetcore.components/3.1.6/microsoft.aspnetcore.components.3.1.6.nupkg.sha512",

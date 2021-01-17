@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tatsuya.m/控データ/WebApplication1/WebApplication1/Shared/WebApplication1.Shared.csproj": {}
+    "/Users/git-repo/Blazor-app/WebApplication1/WebApplication1/Shared/WebApplication1.Shared.csproj": {}
   },
   "projects": {
-    "/Users/tatsuya.m/控データ/WebApplication1/WebApplication1/Shared/WebApplication1.Shared.csproj": {
+    "/Users/git-repo/Blazor-app/WebApplication1/WebApplication1/Shared/WebApplication1.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tatsuya.m/控データ/WebApplication1/WebApplication1/Shared/WebApplication1.Shared.csproj",
+        "projectUniqueName": "/Users/git-repo/Blazor-app/WebApplication1/WebApplication1/Shared/WebApplication1.Shared.csproj",
         "projectName": "WebApplication1.Shared",
-        "projectPath": "/Users/tatsuya.m/控データ/WebApplication1/WebApplication1/Shared/WebApplication1.Shared.csproj",
+        "projectPath": "/Users/git-repo/Blazor-app/WebApplication1/WebApplication1/Shared/WebApplication1.Shared.csproj",
         "packagesPath": "/Users/tatsuya.m/.nuget/packages/",
-        "outputPath": "/Users/tatsuya.m/控データ/WebApplication1/WebApplication1/Shared/obj/",
+        "outputPath": "/Users/git-repo/Blazor-app/WebApplication1/WebApplication1/Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tatsuya.m/.config/NuGet/NuGet.Config"

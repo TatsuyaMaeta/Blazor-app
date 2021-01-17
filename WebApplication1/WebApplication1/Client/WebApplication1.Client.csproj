@@ -17,4 +17,7 @@
     <ProjectReference Include="..\Shared\WebApplication1.Shared.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Remove="Pages\Todo.cshtml" />
+  </ItemGroup>
 </Project>
