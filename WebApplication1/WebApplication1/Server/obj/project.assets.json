@@ -962,11 +962,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tatsuya.m/控データ/WebApplication1/WebApplication1/Server/WebApplication1.Server.csproj",
+      "projectUniqueName": "/Users/git-repo/Blazor-app/WebApplication1/WebApplication1/Server/WebApplication1.Server.csproj",
       "projectName": "WebApplication1.Server",
-      "projectPath": "/Users/tatsuya.m/控データ/WebApplication1/WebApplication1/Server/WebApplication1.Server.csproj",
+      "projectPath": "/Users/git-repo/Blazor-app/WebApplication1/WebApplication1/Server/WebApplication1.Server.csproj",
       "packagesPath": "/Users/tatsuya.m/.nuget/packages/",
-      "outputPath": "/Users/tatsuya.m/控データ/WebApplication1/WebApplication1/Server/obj/",
+      "outputPath": "/Users/git-repo/Blazor-app/WebApplication1/WebApplication1/Server/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tatsuya.m/.config/NuGet/NuGet.Config"
@@ -981,11 +981,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/tatsuya.m/控データ/WebApplication1/WebApplication1/Client/WebApplication1.Client.csproj": {
-              "projectPath": "/Users/tatsuya.m/控データ/WebApplication1/WebApplication1/Client/WebApplication1.Client.csproj"
+            "/Users/git-repo/Blazor-app/WebApplication1/WebApplication1/Client/WebApplication1.Client.csproj": {
+              "projectPath": "/Users/git-repo/Blazor-app/WebApplication1/WebApplication1/Client/WebApplication1.Client.csproj"
             },
-            "/Users/tatsuya.m/控データ/WebApplication1/WebApplication1/Shared/WebApplication1.Shared.csproj": {
-              "projectPath": "/Users/tatsuya.m/控データ/WebApplication1/WebApplication1/Shared/WebApplication1.Shared.csproj"
+            "/Users/git-repo/Blazor-app/WebApplication1/WebApplication1/Shared/WebApplication1.Shared.csproj": {
+              "projectPath": "/Users/git-repo/Blazor-app/WebApplication1/WebApplication1/Shared/WebApplication1.Shared.csproj"
             }
           }
         }

@@ -75,8 +75,8 @@ using WebApplication1.Client.Shared;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/counter")]
-    public partial class Counter : Microsoft.AspNetCore.Components.ComponentBase
+    [Microsoft.AspNetCore.Components.RouteAttribute("/todo")]
+    public partial class Todo : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -84,14 +84,10 @@ using WebApplication1.Client.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 9 "/Users/git-repo/Blazor-app/WebApplication1/WebApplication1/Client/Pages/Counter.razor"
-       
-    private int currentCount = 0;
+#line 6 "/Users/git-repo/Blazor-app/WebApplication1/WebApplication1/Client/Pages/Todo.razor"
+      
+    //private IList<TodoList> todos = new List<TodoList>();
 
-    private void IncrementCount()
-    {
-        currentCount++;
-    }
 
 #line default
 #line hidden

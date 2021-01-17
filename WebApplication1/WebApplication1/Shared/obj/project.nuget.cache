@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s62xBwpX+6hi+KmJmuZ0V0NTu6z5Lw2W8tw9052YEsW0n1aHjJrnsuBj9Wo0JKfSAIsJ/F6Ylvq/NvxSe2ZoEA==",
+  "dgSpecHash": "gscxDC0WXVQI04k6uq7SeWv43az5zzRc79Yfar3H9Hh+J8ixYwQXwdZaqrv4Y4XlqG7YJeNzt9gQUL9lCdOKGg==",
   "success": true,
-  "projectFilePath": "/Users/tatsuya.m/控データ/WebApplication1/WebApplication1/Shared/WebApplication1.Shared.csproj",
+  "projectFilePath": "/Users/git-repo/Blazor-app/WebApplication1/WebApplication1/Shared/WebApplication1.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
