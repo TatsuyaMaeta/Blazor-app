@@ -1,20 +1,27 @@
 ﻿<Properties StartupConfiguration="{4B4C7D01-F797-4CF2-A6D3-200AA6C86054}|Default">
-  <MonoDevelop.Ide.ItemProperties.blazor-app-ver1.0.Client FirstBuild="True" />
   <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="blazor-app-ver1.0/Server/Program.cs" Line="26" Column="2" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="blazor-app-ver1.0" expanded="True" selected="True" />
+          <Node name="blazor-app-ver1.0" expanded="True">
+            <Node name="blazor-app-ver1.0.Client" selected="True" />
+            <Node name="blazor-app-ver1.0.Server" expanded="True" />
+          </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.blazor-app-ver1.0.Shared FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.blazor-app-ver1.0.Server FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.blazor-app-ver1.0.Server PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
