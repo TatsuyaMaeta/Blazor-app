@@ -1,13 +1,13 @@
 ﻿<Properties StartupConfiguration="{0B313EDD-9D51-4EBA-957E-C1D55891E1D2}|Default">
   <MonoDevelop.Ide.ItemProperties.WebApplication1.Server PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplication1/Client/Shared/MainLayout.razor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplication1/Client/Pages/FetchData.razor">
     <Files>
-      <File FileName="WebApplication1/Client/Pages/Index.razor" Line="11" Column="1" />
-      <File FileName="WebApplication1/Client/Pages/Counter.razor" Line="1" Column="1" />
+      <File FileName="WebApplication1/Client/Pages/Index.razor" Line="7" Column="15" />
+      <File FileName="WebApplication1/Client/Pages/Counter.razor" Line="14" Column="24" />
       <File FileName="WebApplication1/Client/Program.cs" Line="1" Column="1" />
-      <File FileName="WebApplication1/Client/Pages/Todo.razor" Line="5" Column="1" />
-      <File FileName="WebApplication1/Client/Shared/NavMenu.razor" Line="1" Column="1" />
-      <File FileName="WebApplication1/Client/Shared/MainLayout.razor" Line="1" Column="1" />
+      <File FileName="WebApplication1/Client/Pages/FetchData.razor" Line="7" Column="33" />
+      <File FileName="WebApplication1/Shared/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="WebApplication1/Server/Controllers/WeatherForecastController.cs" Line="21" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,16 +15,14 @@
           <Node name="WebApplication1" expanded="True">
             <Node name="WebApplication1.Client" expanded="True">
               <Node name="Pages" expanded="True" />
-              <Node name="Shared" expanded="True">
-                <Node name="MainLayout.razor" selected="True" />
-              </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True" />
-              </Node>
+              <Node name="Shared" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
             </Node>
-            <Node name="WebApplication1.Server" expanded="True">
+            <Node name="WebApplication1.Server" expanded="True" selected="True">
+              <Node name="Controllers" expanded="True" />
               <Node name="Pages" expanded="True" />
             </Node>
+            <Node name="WebApplication1.Shared" expanded="True" />
           </Node>
         </State>
       </Pad>

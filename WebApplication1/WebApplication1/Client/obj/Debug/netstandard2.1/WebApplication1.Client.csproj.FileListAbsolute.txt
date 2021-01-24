@@ -741,6 +741,6 @@
 /Users/git-repo/Blazor-app/WebApplication1/WebApplication1/Client/obj/Debug/netstandard2.1/WebApplication1.Client.pdb
 /Users/git-repo/Blazor-app/WebApplication1/WebApplication1/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/Todo.razor.g.cs
 /Users/git-repo/Blazor-app/WebApplication1/WebApplication1/Client/obj/Debug/netstandard2.1/Razor/Pages/Todo.razor.g.cs
-/Users/git-repo/Blazor-app/WebApplication1/WebApplication1/Client/obj/Debug/netstandard2.1/integrity/MbzUpfUWlnyYT_DS4zIMoVsUtq3kdRw8jXiZ6oTOe5Y=.hash
-/Users/git-repo/Blazor-app/WebApplication1/WebApplication1/Client/obj/Debug/netstandard2.1/integrity/jBQT7XLUtcN01vV87npCqDt55hXJgMfckHWu-cRzrYY=.hash
-/Users/git-repo/Blazor-app/WebApplication1/WebApplication1/Client/obj/Debug/netstandard2.1/integrity/ho3yKDdN0XKkFCvXp9LpPckd68BuIS_vsPbO-j5AV3E=.hash
+/Users/git-repo/Blazor-app/WebApplication1/WebApplication1/Client/obj/Debug/netstandard2.1/integrity/XtcAnauy7L7iUSwAZlYEfObPBVbpotWRrYuJg0G3OiE=.hash
+/Users/git-repo/Blazor-app/WebApplication1/WebApplication1/Client/obj/Debug/netstandard2.1/integrity/zidT2-K5_jgp3hWML3BViExeGjhAMWdC1cMc-SubI2A=.hash
+/Users/git-repo/Blazor-app/WebApplication1/WebApplication1/Client/obj/Debug/netstandard2.1/integrity/EwQ3X_cIdqQFS2G2Ez9LBRfJJREgJDzgb3yCifDO5O4=.hash
