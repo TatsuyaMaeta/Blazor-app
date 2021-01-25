@@ -369,6 +369,6 @@
 /Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/blazor-app-ver1.0.Client.pdb
 /Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/Calendar.razor.g.cs
 /Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/Razor/Pages/Calendar.razor.g.cs
-/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/integrity/xU1Xp_qis3MTFyxKJcZhQzsL6ISQtnbrkBR8fxiMbkg=.hash
-/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/integrity/ObZ0hG8glAEj80SnQuJ1KU5t19BvqxfbYyPydUVpe5c=.hash
-/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/integrity/4PMVl-17IFzatXBdAucCGbKqVQr-zsMkVakVqJl65IU=.hash
+/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/integrity/QqQ8Tix5DPMvBw2iOjxhHsYdB4pgxj7NET4-73PbJZk=.hash
+/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/integrity/mcKEvnd2uSe9Lr560_wTMjgETk7f2VDc3ge07mjdzqw=.hash
+/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/integrity/SYuGGYEPq2gCBZIeehiHShWaWVi6mI0Lo_Pz9qeHk5U=.hash
