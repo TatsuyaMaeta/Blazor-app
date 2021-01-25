@@ -75,8 +75,7 @@ using blazor_app_ver1._0.Client.Shared;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/")]
-    public partial class Index : Microsoft.AspNetCore.Components.ComponentBase
+    public partial class Calendar : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -84,10 +83,51 @@ using blazor_app_ver1._0.Client.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 20 "/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/Pages/Index.razor"
-      
-    string TextValue { get; set; }
-    void ClickHandler(DateTime dt) { }
+#line 58 "/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/Pages/Calendar.razor"
+       
+    public DateTime Today { get; } = DateTime.Now;
+
+    public IEnumerable<DateTime[]> Weeks;
+
+    public DateTime SelectDay { get; set; }
+
+    public IEnumerable<DateTime[]> GetWeeks() {
+        DateTime day = new DateTime(SelectDay.Year, SelectDay.Month, 1);
+
+        DateTime end = day.AddMonths(1).AddDays(-1);
+
+        var week = new DateTime[7];
+
+        while(day.Month == SelectDay.Month){
+            week[(int)day.DayOfWeek] = day; // 1週分の配列に設定する②
+
+            if (day.DayOfWeek == DayOfWeek.Saturday || day.Day == end.Day) {
+                yield return week;
+                Array.Clear(week, 0, week.Length);
+            }
+            day = day.AddDays(1);
+        }
+    }
+
+    protected override void OnInitialized()
+    {
+        SelectDay = Today;  // 今日を設定する
+        Weeks = GetWeeks(); // 当月の週ごとのDateTime配列を取得する
+    }
+
+
+
+    private void NextMonth(int n) => SelectDay = SelectDay.AddMonths(n);
+
+    [Parameter]
+    public EventCallback<DateTime> OnClick { get; set; }
+
+    // 日付がクリックされた時に呼ばれる
+    private void DayClick(DateTime d)
+    {
+        SelectDay = d; // クリックされた日を設定する
+        OnClick.InvokeAsync(d); // イベントを通知する①
+    }
 
 #line default
 #line hidden

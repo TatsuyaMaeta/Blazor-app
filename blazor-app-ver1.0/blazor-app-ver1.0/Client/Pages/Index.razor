@@ -3,5 +3,21 @@
 <h1>Hello, world!</h1>
 
 Welcome to your new app.
+<p>クライアント側のINDEX.razorファイルです</p>
+<p>基本的にはサーバー側のディレクトリで共通ファイルを書いていて、個別のページについてはクライアント側でPagesのディレクトリで管理している</p>
+
+<div>
+    <textarea @bind="@TextValue" class="form-control mt-3" rows="3" />
+        <button class="btn btn-primary mt-4">日記を保存する</button>
+</div>
 
 <SurveyPrompt Title="How is Blazor working for you?" />
+
+@TextValue
+
+<Calendar OnClick="ClickHandler" />
+
+@code{
+    string TextValue { get; set; }
+    void ClickHandler(DateTime dt) { }
+}
