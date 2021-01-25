@@ -182,7 +182,6 @@
 /Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/Razor/Shared/SurveyPrompt.razor.g.cs
 /Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/Razor/_Imports.razor.g.cs
 /Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/blazor/unlinked.output
-/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/integrity/hvnvZaoIyAFIrYujrTqYoGHoS7Ae-vkaJVkR3wjQP2E=.hash
 /Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/integrity/99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
 /Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/integrity/ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
 /Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/integrity/BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
@@ -235,14 +234,12 @@
 /Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/integrity/rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash
 /Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/integrity/LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
 /Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/integrity/czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
-/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/integrity/aMWcmf3D4-ut3iFYfbprjoCcww3vWqFcHwU01gc2tfQ=.hash
 /Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/integrity/I347r-zBx8Y4mNJJ69a5epvx1sGyQRvrm7bV-gvZZZs=.hash
 /Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/integrity/mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
 /Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/integrity/3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
 /Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/integrity/UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
 /Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/integrity/SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
 /Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/blazor/blazor.boot.json
-/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/integrity/EUY3ni3ibzH9BjrsVXfrwoKr8nruy4TQU5zXoChUc74=.hash
 /Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/blazor-app-ver1.0.Client.dll.gz
 /Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Net.Http.Json.dll.gz
 /Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/compressed/_framework/_bin/System.Buffers.dll.gz
@@ -370,3 +367,8 @@
 /Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/blazor-app-ver1.0.Client.csproj.CopyComplete
 /Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/blazor-app-ver1.0.Client.dll
 /Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/blazor-app-ver1.0.Client.pdb
+/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/RazorDeclaration/Pages/Calendar.razor.g.cs
+/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/Razor/Pages/Calendar.razor.g.cs
+/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/integrity/xU1Xp_qis3MTFyxKJcZhQzsL6ISQtnbrkBR8fxiMbkg=.hash
+/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/integrity/ObZ0hG8glAEj80SnQuJ1KU5t19BvqxfbYyPydUVpe5c=.hash
+/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/obj/Debug/netstandard2.1/integrity/4PMVl-17IFzatXBdAucCGbKqVQr-zsMkVakVqJl65IU=.hash
