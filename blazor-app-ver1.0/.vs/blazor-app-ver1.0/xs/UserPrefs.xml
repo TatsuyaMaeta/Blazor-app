@@ -1,18 +1,18 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{4B4C7D01-F797-4CF2-A6D3-200AA6C86054}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="blazor-app-ver1.0/Client/Pages/Index.razor">
     <Files>
-      <File FileName="blazor-app-ver1.0/Server/Program.cs" Line="18" Column="1" />
-      <File FileName="blazor-app-ver1.0/Client/Pages/Index.razor" Line="19" Column="5" />
-      <File FileName="blazor-app-ver1.0/Client/Pages/FetchData.razor" />
-      <File FileName="blazor-app-ver1.0/Client/Pages/Calendar.razor" />
-      <File FileName="blazor-app-ver1.0/Client/Program.cs" Line="1" Column="1" />
+      <File FileName="blazor-app-ver1.0/Client/Pages/Index.razor" Line="23" Column="1" />
+      <File FileName="blazor-app-ver1.0/Client/Pages/FetchData.razor" Line="1" Column="1" />
+      <File FileName="blazor-app-ver1.0/Client/Pages/Calendar.razor" Line="25" Column="18" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="blazor-app-ver1.0" expanded="True">
             <Node name="blazor-app-ver1.0.Client" expanded="True">
-              <Node name="Pages" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Index.razor" selected="True" />
+              </Node>
               <Node name="Shared" expanded="True" />
             </Node>
             <Node name="blazor-app-ver1.0.Server" expanded="True">
@@ -21,7 +21,6 @@
                 <Node name="Shared" expanded="True" />
               </Node>
               <Node name="Properties" expanded="True" />
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
