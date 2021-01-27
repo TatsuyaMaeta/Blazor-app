@@ -84,7 +84,7 @@ using blazor_app_ver1._0.Client.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 22 "/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/Pages/Index.razor"
+#line 24 "/Users/git-repo/Blazor-app/blazor-app-ver1.0/blazor-app-ver1.0/Client/Pages/Index.razor"
       
     string TextValue { get; set; }
     void ClickHandler(DateTime dt) { }
